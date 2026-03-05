@@ -1,9 +1,9 @@
 
 # MeLink - Estudo de Caso Front-end
 
-O projeto MeLink é um estudo de caso de desenvolvimento front-end utilizando React, inspirado na plataforma Linktree. O objetivo principal é criar uma interface responsiva e intuitiva para centralizar e apresentar links importantes de forma organizada e visualmente atraente.
+Repositório original de [Pedro Lima](https://github.com/pedrobits)
 
-![image](https://github.com/pedrobits/MeLink/assets/70610289/3313cd8d-e171-488c-96d6-362037f104e6)
+O projeto MeLink é um estudo de caso de desenvolvimento front-end utilizando React, inspirado na plataforma Linktree. O objetivo principal é criar uma interface responsiva e intuitiva para centralizar e apresentar links importantes de forma organizada e visualmente atraente.
 
 ## Recursos
 
